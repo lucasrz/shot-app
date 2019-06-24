@@ -1,0 +1,27 @@
+
+.hover {
+  background-color: white;
+}
+.ui.striped.table tbody tr[class=hover]:hover,
+.hover:hover {
+  background-color: rgba(0, 0, 0, 0.123);
+}
+
+.container {
+  margin: 5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 1rem;
+}
