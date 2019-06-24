@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reducers Clear store 1`] = `
+Object {
+  "shotsReducer": Object {
+    "undefined": undefined,
+  },
+}
+`;
+
+exports[`Reducers Get shot saga 1`] = `Object {}`;
+
+exports[`Reducers Get shots saga 1`] = `Object {}`;
+
+exports[`Reducers Set shot 1`] = `
+Object {
+  "shotsReducer": Object {
+    "shot": Object {},
+    "shots": Array [],
+  },
+}
+`;
+
+exports[`Reducers Set shots 1`] = `
+Object {
+  "shotsReducer": Object {
+    "shots": Array [
+      "1",
+      "2",
+      "3",
+    ],
+  },
+}
+`;
