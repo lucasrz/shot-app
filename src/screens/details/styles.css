@@ -1,0 +1,25 @@
+.container {
+  margin: 5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.shot-img {
+  width: 100%;
+} 
+
+.ui.table td[class=left],
+.ui.table th[class=left] {
+  width: 10%;
+}
+
+
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 1rem;
+}

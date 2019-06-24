@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component Should insttiate the component 1`] = `
+<div
+  className="container"
+>
+  <h1>
+    Loading...
+  </h1>
+</div>
+`;
